@@ -129,7 +129,7 @@ Transform:
   - {fileID: 8972470371164807203}
   - {fileID: 6962568651751947345}
   m_Father: {fileID: 0}
-  m_RootOrder: 1
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!54 &7911470990948450322
 Rigidbody:
@@ -331,8 +331,8 @@ Light:
   m_Type: 0
   m_Shape: 0
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_Intensity: 4
-  m_Range: 9.590524
+  m_Intensity: 5
+  m_Range: 23.722425
   m_SpotAngle: 118.591194
   m_InnerSpotAngle: 21.80208
   m_CookieSize: 10
